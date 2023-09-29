@@ -11,9 +11,9 @@ A python project i was interested in doing for in-Game chat (League of Legends).
 1. Copy some txt (shortcut ctrl + c)
 2. Press
   - ctrl + t: if u want to translate the txt to a specific language
-     * Note the txt syntax must be as follows : lang/--/txt
-     * The introduction of the lang/--/ is necessary for the code to know which specific language u want the translation to be in.
-     * Language is coded in specific abreviations for example english is written as en/--/txt
+     - Note the txt syntax must be as follows : lang/--/txt
+     - The introduction of the lang/--/ is necessary for the code to know which specific language u want the translation to be in.
+     - Language is coded in specific abreviations for example english is written as en/--/txt
   - alt + t: if u want to translate the txt to a default language in my case its arabic if u want to change it just modify the string default
-     * You will notice that the previous lang/--/ will be introduced into the translated txt to tell you which is the original language of the txt before it got translated which is really handy in communicating.
+     - You will notice that the previous lang/--/ will be introduced into the translated txt to tell you which is the original language of the txt before it got translated which is really handy in communicating.
 4. Paste the txt (shortcut ctrl + v)
